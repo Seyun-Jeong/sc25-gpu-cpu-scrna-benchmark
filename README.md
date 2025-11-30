@@ -40,6 +40,8 @@ https://www.10xgenomics.com/datasets/1-3-million-brain-cells-from-e-18-mice-2-st
 
 Benchmark scripts are maintained by the BioHPC Lab. Contact the corresponding author for access.
 
+Lab: http://cs.slu.edu/~ahn/
+
 ## Citation
 
 Gardner, Jeong, et al. "Evaluating Accuracy and Performance Tradeoffs in GPU Accelerated Single Cell RNA-seq Analysis." SC Workshops '25.
